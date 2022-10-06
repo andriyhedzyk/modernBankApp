@@ -30,6 +30,20 @@
   text-fill-color: transparent;
 }
 
+.text-gradient-ukr {
+  background: radial-gradient(64.18% 64.18% at 71.16% 35.69%,
+     #ffdb39 0.89%,
+     #FFF54E 17.23%,
+     #fdff90 42.04%,
+     #e5ed78 55.12%,
+     #73cfe4 71.54%,
+     #3A8EC9 100%);
+    -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      text-fill-color: transparent;
+    }
+
 .bg-blue-gradient {
   background: linear-gradient(157.81deg,
       #def9fa -43.27%,
