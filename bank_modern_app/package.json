@@ -1,8 +1,8 @@
 {
-  "name": "bank_app",
+  "name": "modernBankApp",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://andriyhedzyk.github.io/modernBank_app",
+  "homepage": "https://andriyhedzyk.github.io/modernBankApp",
   "type": "module",
   "scripts": {
     "dev": "vite",
